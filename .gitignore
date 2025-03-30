@@ -1,2 +1,6 @@
 .env
-FA\
+FA/
+
+_pycache_# Ignore system files
+__pycache__/
+*.pyc
